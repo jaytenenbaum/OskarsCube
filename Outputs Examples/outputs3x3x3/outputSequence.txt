@@ -1,0 +1,7 @@
+In inflated maze (original scaled by 2):
+sequence of 14 steps from (2, 2, 4) to (4, 0, 2)
+sequence is: [(2, 2, 4), (1, 2, 4), (0, 2, 4), (0, 2, 3), (0, 2, 2), (0, 2, 1), (0, 2, 0), (1, 2, 0), (2, 2, 0), (3, 2, 0), (4, 2, 0), (4, 2, 1), (4, 2, 2), (4, 1, 2), (4, 0, 2)]
+
+Althought, in original deflated maze:
+sequence of 7 steps from (1, 1, 2) to (2, 0, 1)
+sequence is: [(1, 1, 2), (0, 1, 2), (0, 1, 1), (0, 1, 0), (1, 1, 0), (2, 1, 0), (2, 1, 1), (2, 0, 1)]

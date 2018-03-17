@@ -2,8 +2,15 @@
 This is a project done in the 3d-printing course in TAU, which creates a general 3D Oskar's Cube, with the solution in Python.
 
 ## How-To-Use:
-#### Assertions:
-First assure that the .py file is in the same folder containing the "input" folder with cube.stl.
+#### Assertions and Requirements:
+* First assure that the .py file is in the same folder containing the "input" folder with cube.stl.
+* [numpy](http://www.numpy.org/) - Required for numpy-stl
+* [python-utils](https://pypi.python.org/pypi/python-utils) - Required for numpy-stl
+* [numpy-stl](https://github.com/WoLpH/numpy-stl) - STL manipulation framework
+
+
+
+
 #### Arguments
 The arguments of the python script are the sizes
 of the maze over the three axes - X,Y,Z, and then the minimal
